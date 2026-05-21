@@ -69,7 +69,6 @@ An interactive Power BI Dashboard was built to provide a visual and dynamic view
 
 ![Power BI Dashboard](images/powerbi_dashboard.png)
 
-> To explore the dashboard, download the `netflix_dashboard.pbix` file and open it in Power BI Desktop.
 ---
 # 📈 Results & Insights
 The analysis revealed several important insights about Netflix content:
